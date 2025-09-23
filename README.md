@@ -1,16 +1,16 @@
 # devcontainer-python-node-cli-template
 
-This is a template repository for a development environment using Python Dev Containers, allowing you to use Gemini CLI and CodexGA.
+This is a template repository for a development environment using Python Dev Containers, allowing you to use Gemini CLI and Codex.
 
 ## Overview
 
-This repository provides a template for a development environment using Python Dev Containers. It is configured to allow for the use of Gemini CLI and CodexGA, enabling you to immediately begin development in a containerized environment.
+This repository provides a template for a development environment using Python Dev Containers. It is configured to allow for the use of Gemini CLI and Codex, enabling you to immediately begin development in a containerized environment.
 
 ## Features
 
 - **Python Development Environment**: A ready-to-use Python development environment.
 - **Dev Containers**: Ensures a reproducible development environment by using Dev Containers.
-- **Gemini CLI and CodexGA**: Pre-configured for use with Gemini CLI and CodexGA.
+- **Gemini CLI and Codex**: Pre-configured for use with Gemini CLI and Codex.
 
 ## Prerequisites
 
@@ -21,6 +21,7 @@ This repository provides a template for a development environment using Python D
 ## Usage
 
 1.  **Clone the repository:**
+
     ```bash
     git clone https://github.com/miuraDS/devcontainer-python-node-cli-template.git
     cd devcontainer-python-node-cli-template
